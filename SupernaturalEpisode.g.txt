@@ -1,0 +1,149 @@
+Supernatural Episode Grammar
+by AmandaMarie Adams
+{
+<start>
+A <victim> <horrifying-event> in <location> . Sam and Dean discover that the culprit is <monster> from <origin> and defeat it by <defeat-method> . Then <ending> ;
+<character> is killed by <monster> in <location> . <character> enlists the help of <character> to bring <character> back from the dead. Then <ending> ;
+<character> and <character> have a falling out and join separate forces with <character> and <character> to defeat <monster> in <location> . Then <ending> ;
+<ending> ;
+}
+
+{
+<victim>
+woman ;
+child ;
+man ;
+police officer ;
+drunk ;
+ditzy college student ;
+}
+
+{
+<character>
+Sam ;
+Dean ;
+Crowley ;
+Kevin ;
+Castiel ;
+John Winchester ;
+Lisa ;
+Jo ;
+Ellen ;
+Bobby ;
+Gabriel ;
+Balthazar ;
+}
+
+{
+<horrifying-event>
+sells their soul to a crossroads demon ;
+is <kill-action> by a mysterious creature ;
+dies mysteriously <cause> ;
+suddenly gains the power <power> ;
+disappears suddenly, leaving behind <mysterious-trace> ;
+}
+
+{
+<kill-action>
+mauled ;
+beheaded ;
+strangled ;
+bitten ;
+scratched ;
+knocked unconscious ;
+}
+
+{
+<cause>
+by bleeding out the eyes, nose, and ears ;
+from melting ;
+from spontaneous combustion ;
+from asphyxiation ;
+from drowning on land ;
+by complete blood loss ;
+from stab wounds ;
+from an unknown cause ;
+}
+
+{
+<power>
+to have all their wishes come true ;
+to have anything they draw come to life ;
+to read people's minds ;
+to control time ;
+of excessive strength ;
+to convince people to do anything ;
+of extreme popularity ;
+}
+
+{
+<mysterious-trace>
+a pair of singed shoes ;
+a necklace ;
+a pile of clothes ;
+a sheath of skin ;
+the scent of sulphur ;
+a puddle of ectoplasm ;
+a hex bag ;
+}
+
+{
+<defeat-method>
+destroying the artefact it's tied to ;
+capturing it in a demon's trap ;
+beheading it ;
+stabbing it with a silver knife ;
+stabbing it through the heart with a wooden stake ;
+setting it on fire ;
+stabbing it with The First Blade ;
+}
+
+{
+<location>
+Souix Falls, ND ;
+Portland, OR ;
+Kansas ;
+Columbus, OH ;
+Nebraska ;
+Missouri ;
+Reno, NV ;
+Kentucky ;
+Chicago ;
+Wyoming ;
+Montana ;
+Virginia ;
+}
+
+{
+<monster>
+a vampire ;
+a werewolf ;
+a shape-shifter ;
+a jinn ;
+a witch ;
+a leviathan ;
+an angel ;
+a demon ;
+a ghost ;
+a human ;
+a pagan god ;
+a Windego ;
+a hell hound ;
+}
+
+{
+<origin>
+a fairytale ;
+local folklore ;
+an urban myth ;
+an Indian burial ground ;
+Hell ;
+Heaven ;
+Purgatory ;
+a haunted asylum ;
+}
+
+{
+<ending>
+Sam and Dean have a heartfelt talk around the Impala. ;
+}

@@ -1,0 +1,120 @@
+Death of a Main Character in a Fandom
+Keiko Fujii
+2/9/2014
+{
+<start>
+<intro> <death> <villain_standing_by> <final_ending> ;
+}
+
+{
+<intro>
+Have you heard of <main_character> ? This is the story of their downfall.  One day, they were <activity> . \n ;
+Once upon a time, <main_character> was <activity> . \n ;
+This is the story of how <main_character> died. They were busy <activity> . \n ;
+}
+
+{
+<death>
+Suddenly, <disaster> ! \n ;
+It was such a nice sunny day, but disaster doesn't take heed of the weather. Unfortunately, <disaster> , <disaster> , and <disaster> . \n ; 
+}
+
+{
+<villain_standing_by>
+A bystander would later report that they saw <villain> lurking off in the distance. \n ;
+The sound of <villain> 's cackling joined the screaming that filled the air. \n ;
+<villain> suspiciously stood innocently off the side. \n ;
+}
+
+{
+<final_ending>	
+Unfortunately, the trouble didn't stop there. Soon, <disaster> and <disaster> . They died shortly after. \n ;
+100 deaths and resurrections later, they finally died. For realsies. <main_character> mourned profusely. \n ;
+After the trauma of such a disaster, they regenerated. \n ;
+They quickly recovered and went about life as normal. The next disaster would occur two days later. \n ;
+Two years later, they reappeared to their friends after letting them believe they had been dead. Their friends had mixed reactions, from screaming in terror, to shocked disbelief, to straight-out punching their lights out. \n ;
+Oddly enough, they stayed dead. It was very out of character. \n ;
+Thanks to <main_character> , they survived the disaster, and lived to die another day. \n ;
+}
+
+{
+<main_character>
+the 9th Doctor ;
+the 10th Doctor ; 
+the 11th Doctor ;
+Rose Tyler ;
+Martha Jones ;
+Donna Noble ;
+Rory Pond ; 
+Clara Oswald ;
+Sherlock ;
+Merlin ; 
+Arthur, crown prince of Camelot ; 
+Dean Winchester ;
+Sam Winchester ; 
+Malcolm Reynolds ;
+Hoban Washburne (Wash) ;
+Phil Coulson ;
+Nick Fury ;
+Thorin Oakenshield ;
+Gandalf the Grey ;
+Harry Potter ; 
+Dumbledore ;
+Flynn Rider ;
+Anna of Arendelle ;
+Captain Jim Kirk ;
+Spock ;
+}
+
+{
+<activity>
+traveling alone in the TARDIS ;
+working in a shop in London ;
+working the graveyard shift at the hospital ;
+being the best temp in Chiswick ;
+baking a souffle ;
+being bored and shooting holes in the wall ;
+saving the life of the crown prince of Camelot ;
+eating pie ;
+hunting demons ;
+fighting off Reevers ;
+being a leaf on the wind, soaring ;
+trying to get Captain America to sign their vintage trading cards ;
+trying to corral the Avengers ;
+being generally mischievous ;
+ruling as the King Under the Mountain ;
+looking for horcruxes ;
+building a snowman ;
+}
+
+{
+<disaster>
+they absorbed the whole of the time vortex ; 
+they got stuck in an alternate universe, left to stand on a beach, losing the love of their life ;
+they merged with a Time Lord, but their brain couldn't handle it, and so their memory was erased ;
+they got sent back to 1930s New York by a Weeping Angel ;
+it is revealed that they are a Dalek ;
+they committed suicide by jumping off of the Reichenbach Falls ;
+they were poisoned ;
+a piano fell on top of them ;
+they got stabbed through by a spike after speaking their final words ;
+they got stabbed in the back by the Norse god of mischief ;
+they fell from the lowest dungeon to the highest peak fighting the Balrog ;
+they got hit by an avada kedavra curse ;
+they got stabbed by Mother Gothel ;
+they sacrificed themselves for the ship's crew and got radiation poisoning ;
+}
+
+{
+<villain>
+The Master ;
+Daleks ;
+Professor Moriarty ;
+Morgana ;
+Loki ;
+Azog the Defiler ;
+Sauron ;
+Voldemort ;
+Hans ;
+Khan ;
+}

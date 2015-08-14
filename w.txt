@@ -1,0 +1,59 @@
+Workplace Excuse Generator
+-----------------------------------------------------------
+
+Written by Michael Vandeberg for CSIS 420.
+February 2013
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+{
+<start>
+<intro> <job> <timeline> <apology> ;
+}
+
+{
+<intro>
+It has come to my attention, <excuse> Now I can't ;
+Due to unforseen events, <excuse> Because of this I am unable to ;
+Unbenounce to me, <excuse> Therefore, I cannot ;
+}
+
+{
+<excuse>
+my code is still compiling. ;
+I am going on vacatation. ;
+I am deathly ill. ;
+my computer is running too slow. ;
+I have an unrecoverable virus on my workstation. ;
+the tubes are clogged. ;
+}
+
+{
+<job>
+check my code in to version control. ;
+comment my code. ;
+refactor the code base. ;
+redesign the company website. ;
+continue working with Steve. ;
+}
+
+{
+<apology>
+I am sorry for the inconvenience. ;
+My humblest apologies for this turn of events. ;
+}
+
+{
+<timeline>
+I expect to recover from this incidence before <time> . ;
+I will be caught up on my work by <time> . ;
+}
+
+{
+<time>
+next week ;
+close of business tomorrow ;
+three days from the day after yesterday ;
+the first of the year ;
+when I quit my job ;
+}
+

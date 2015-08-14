@@ -1,0 +1,534 @@
+By Jake Thomas
+
+{
+<start>
+PawnStar: What do you want to do with it?
+Customer: Sell it. <scenario1> <DealOrNoDeal> ;
+PawnStar: What do you want to do with it?
+Customer: Sell it.
+<scenario2> ;
+PawnStar: What do you want to do with it?
+Customer: Sell it.
+<scenario3>
+<DealOrNoDeal> ;
+<ChumLeeDoesAStupid> ;
+}
+
+{
+<scenario1>
+<CustomerStory> <Belittlement> <Back&Forth> ;
+}
+
+{
+<scenario2>
+<CustomerStory> <MightBeFake> ;
+}
+
+{
+<scenario3>
+<CustomerStory> <Defer> <Back&Forth> ;
+}
+
+{
+<ChumLeeDoesAStupid>
+<ChumLeeStupid> This act goes unnoticed. ;
+<ChumLeeStupid> <SomeoneGetsMad> <UpOrDown> ;
+<ToldChumLeeToo...> <ChumLeeMissionStupid> <SomeoneGetsMad> <Down> ;
+}
+
+{
+<ChumLeeStupid>
+Chum Lee throws bowling ball at antique bowling arcade game and brakes rear-painted glass. ;
+Chum Lee buys something that will never sell. ;
+Chum Lee makes big purchase without permission. ;
+Chum Lee pays too much for something. ;
+Chum Lee Buys a hot-air ballon. ;
+Chum Lee buys a forgery. ;
+Chum Lee buys a forgery of a forgery. ;
+}
+
+{
+<ChumLeeMissionStupid>
+Chum Lee had it signed to him. ;
+Chum Lee buys the wrong one. ;
+Chum Lee buys something alive. ;
+Chum Lee breaks it. ;
+Chum Lee bought a big purchase without permission. ;
+}
+
+{
+<SomeoneGetsMad>
+<CoreyGetsMad> ;
+<OldManGetsMad> ;
+<RickGetsMad> ;
+}
+
+{
+<UpOrDown>
+<Up> ;
+<Down> ;
+}
+
+{
+<CoreyGetsMad>
+Cory: Chum! [sensored] ;
+Cory at Chum: You're an idiot. ;
+Cory in response to Chum: *Sigh* ;
+Cory in response to Chum: Are you serious? ;
+}
+
+{
+<OldManGetsMad>
+OldMan: Chum, you should have called. ;
+OldMan: Chum! [sensored] ;
+OldMan to Chum: What am I supposed to do with a hot air ballon? ;
+OldMan: Chum. Give me that phone, and I'll show you how it works. ;
+OldMan to Chum: Next time you're about to make a big purchase, let me know. ;
+OldMan to Chum: You had him autograph it to you?! ;
+}
+
+{
+<RickGetsMad>
+Rick to Chum: You did what? ;
+Rick in response to Chum: *Face goes in hands* I can't believe it. ;
+Rick to Chum: Congradulations, you just made this a non-profit organization. ;
+}
+
+{
+<Up>
+Chum bought this arcade game that no one will buy, so the best we could do was set it up in the shop and let people put quarters in and play it ;
+Chum bought a hot air ballon. Only way we could make money off it was to give people rides. ;
+By a miracle, this thing Chum bought actually sold. ;
+Chum bought a forgery of a signature...but it was by a famous forger and is actually worth some money. ;
+Some Chum Lee fan bought the Bob Dylan record signed by Bob Dylan to Chum Lee. ;
+}
+
+{
+<Down>
+We lost money on that one. ;
+Still in the shop. ;
+Worth half of what it was, Chum broke it. ;
+Not EVEN worth half of what it was, Chum broke it. ;
+Of course no one wants to buy a Bob Dylan record signed by Bob Dylan to Chum Lee. ;
+}
+
+{
+<ToldChumLeeToo...>
+The Old Man just told Chum to drive the car we just bought over. ;
+Rick okayed Chum's request to go have this Bob Dylan record signed by Bob Dylan to increase its value. ;
+Old Man told Chum to go out and look for some good buys, just look. ;
+Corry asked Chum to put this on the shelf. ;
+}
+
+{
+<CustomerStory>
+Customer: My <Relative> was in the <MilitaryBranch> with <MaleFamousPerson> and he signed this <Signable> . ;
+Customer: My <Relative> saw <FemaleFamousPerson> and she signed this <Signable> . ;
+Customer: I've got a baby on the way and need some money. What can I get for this? ;
+Customer: I want some gambilin' money. How much can I get for this? ;
+Customer: This has been in the family for a long time, but times are tough, and I think it's time for it to go. ;
+Customer: Got this at a garage sale, and I don't need it anymore. Think you can make me an offer? ;
+}
+
+{
+<Relative>
+Grandfather ;
+Grandmother ;
+Great Uncle ;
+Great-great grandfather ;
+Great-great grandfather ;
+Great-great grandfather ;
+Great-great grandfather ;
+Aunt ;
+Great Aunt ;
+}
+
+{
+<MilitaryBranch>
+Marine Corps ;
+Army ;
+Navy ;
+Coast Gaurd ;
+Air Force ;
+}
+
+{
+<MaleFamousPerson>
+Elvis ;
+Ulysses S. Grant ;
+Bob Dylan ;
+Sasquach ;
+Sasquach ;
+Sasquach ;
+Houdini ;
+Baby Face Nelson ;
+John Dillinger ;
+EinStein ;
+Michael Jordan ;
+Michael Jackson ;
+Tiger Woods ;
+}
+
+{
+<FemaleFamousPerson>
+Marilyn Monroe ;
+Amelia Earhart ;
+Rosa Parks ;
+Mother Teresa ;
+Shirley Temple ;
+Jane Goodall ;
+Barbra McClintock ;
+Rosalind Franklin ;
+}
+
+{
+<Signable>
+record cover ;
+photograph ;
+shirt ;
+shoe ;
+golf ball ;
+basket ball ;
+cigar ;
+Tommy gun ;
+Tommy gun ;
+}
+
+{
+<Belittlement>
+PawnStar: We have lots of those, they aren't selling, and that one won't either. ;
+PawnStar: Quite frankly, I don't give a damn. ;
+PawnStar: How am I going to sell that? ;
+PawnStar: Doesn't look like much. ;
+PawnStar: These don't go for much unless they're in perfect condition, see that scratch here? And that's more than patina, that's corrosion. These aren't the original screws. And it's been re-finished. ;
+PawnStar: It doesn't even work? ;
+PawnStar: Mmm. Yeah, looks pretty dinged-up. ;
+PawnStar: Unless it's signed by someone, I don't see how it's worth much. ;
+PawnStar: Yeah, lots of those floatin' around. ;
+PawnStar: I'm going to have to spend a pretty penny to get that restored to the point where it will sell. ;
+PawnStar: That looks like a space-taker. ;
+PawnStar: Don't have room for that in the shop. ;
+PawnStar: Sorry, but I can tell that's just going to collect dust. ;
+}
+
+{
+<Defer>
+PawnStar: I don't know much about this sort of thing, let me get Pops, he's more of an expert in this area. ;
+PawnStar: CHUM!! Take a look at this. ;
+PawnStar: Chum, check to see if this is real gold. ;
+PawnStar: I'll have to call in our Civil War expert. ;
+PawnStar: Let me call in our gun expert. ;
+}
+
+{
+<MightBeFake>
+<FakeConcern> <CallIn> <RealOrFake> ;
+}
+
+{
+<FakeConcern>
+PawnStar: My biggest concern is that this might be a fake. ;
+PawnStar: I don't even know if it's real. ;
+PawnStar: Unfortunately, there's a lot of fakes out there. ;
+PawnStar: You'd be real lucky if this is real. ;
+PawnStar: The signature may be forged. ;
+PawnStar: It might only be a copy. ;
+}
+
+{
+<CallIn>
+PawnStar: I'm going to have to have our handwriting expert come in and see if this signature is real or not. ;
+PawnStar: Hmm. Just to be safe, I'm going to call in our civil war expert to see if this is real. Belt buckles with bullets lodged in them and collided bullets are the most-faked Civil War artifacts. ;
+PawnStar: I'm always leary of signatures. If it's alright with you, I'd like my handwriting expert to come take a look. ;
+PawnStar: You say this is Houdini's straight jacket? That's pretty hard to believe, but if it's true, it's worth a lot of money. Let me call in my magic expert. ;
+PawnStar: You say this gun's from the Civil War era? I'm always leary of those. Often they don't have original screws, or have been refinished, or something, and that makes the value go way down. Let me call in my Civil War expert. ;
+PawnStar: Hmm. I'd really like to see that authenticated first. ;
+}
+
+{
+<RealOrFake>
+<Real> ;
+<Fake> ;
+}
+
+{
+<Fake>
+PawnStar: Sorry, it's not real. I can't make you an offer. Customer: At least it will make a great conversation piece. ;
+PawnStar: Someone just shot this belt buckle and said so and so was hit in the belt buckle during battle. ;
+PawnStar: These bullets were delibertly fused together - not from the battle, sorry. ;
+PawnStar: This is not Houdini's straight jacket, sorry. ;
+PawnStar: You can tell by the "A" that it's not Abraham Lincoln's signature, sorry. No deal. ;
+PawnStar: Ok, first of all, this isn't even a real photograph. ;
+PawnStar: Ok, first of all, this isn't even real paper. ;
+PawnStar: Ok, first of all, this isn't even reality. You're in the Matrix. ;
+PawnStar: This is made of plastic. That's a good sign that it's a fake. ;
+PawnStar: Sorry, your baseball card has a forged signature. ;
+PawnStar: This coin is a counterfeit. ;
+PawnStar: It's just not real. I don't know how else to put it. ;
+}
+
+{
+<Real>
+PawnStar: This really is Houdini's straight jacket, wow! <Back&Forth> <DealOrNoDeal> ;
+PawnStar: Wow! So your <Relative> really was shot in the belt buckle during the Civil War, and this is the belt buckle with the bullet lodged inside! Well! <Back&Forth> <DealOrNoDeal> ;
+PawnStar: Wow. The signature really is real. Let's talk numbers. <Back&Forth> <DealOrNoDeal> ;
+PawnStar: I've always wanted to see a real one of these, and now, I finally have. Still going to have to make me a convincing offer. <Back&Forth> <DealOrNoDeal> ;
+PawnStar: So this <Signable> really was signed by <MaleFamousPerson> ! <Back&Forth> <DealOrNoDeal> ;
+PawnStar: So this <Signable> really was signed by <FemaleFamousPerson> ! <Back&Forth> <DealOrNoDeal> ;
+PawnStar: So it's real. But will I be able to make a profit? <Back&Forth> <DealOrNoDeal> ;
+PawnStar: So it's real. But will I be able to make a profit? <Back&Forth> <DealOrNoDeal> ;
+PawnStar: So it's real. But will I be able to make a profit? <Back&Forth> <DealOrNoDeal> ;
+}
+
+{
+<Back&Forth>
+<MakeMeAnOffer> <InitialOffer> <Back&Forth2> ;
+}
+
+{
+<Back&Forth2>
+<Back> <Forth> <Back&Forth2> ;
+<Back> <Forth> <Back&Forth2> ;
+<Back> <Forth> <Back&Forth2> ;
+<Back> <Forth> <Back&Forth2> ;
+<Back> <Forth> <Back&Forth2> ;
+<Back> <Forth> <Back&Forth2> ;
+<Back> <Forth> <Back&Forth2> ;
+<Back> <Forth> ;
+}
+
+{
+<MakeMeAnOffer>
+PawnStar: So. Make me an offer. ;
+PawnStar: How much do you want for it? ;
+PawnStar: What price did you have in mind? ;
+PawnStar: What's you're absolute lowest? ;
+PawnStar: What's the magic number? ;
+PawnStar: What's the number in your head? ;
+}
+
+{
+<InitialOffer>
+Customer: I was thinking <Amount> . ;
+Customer: Well after hearing what your expert said, I'm thinking <Amount> . ;
+Customer: Honestly, if I could just get <Amount> , I'd be happy. ;
+Customer: <Amount> . ;
+Customer: <Amount> seems awfully reasonable to me. ;
+Customer: How about <Amount> ? ;
+}
+
+{
+<Back>
+PawnStar: I was thinking <Amount> . ;
+PawnStar: *Laughs* It's not even worth <Fraction> . How about <Amount> ? ;
+PawnStar: *Laughs* It's not even worth <Fraction> . How about <Amount> ? ;
+PawnStar: *Laughs* It's not even worth <Fraction> . How about <Amount> ? ;
+PawnStar: How about half that? ;
+PawnStar: <Amount> ;
+PawnStar: <Amount> ;
+PawnStar: Well, I was thinking more like <Amount> . ;
+PawnStar: You're up in the clouds. I could barely make a profit for <Amount> . ;
+PawnStar: How about <Amount> ? ;
+PawnStar: Yeah, I'm suuure you think that's reasonable. _I_ think <Amount> is reasonable. ;
+PawnStar: Let's just make it <Amount> even. ;
+PawnStar: Let's just make it <Amount> even. ;
+<ClassicPawnStarLine> ;
+<ClassicPawnStarLine> ;
+<ClassicPawnStarLine> ;
+<ClassicPawnStarLine> ;
+<ClassicPawnStarLine> ;
+<ClassicPawnStarLine> ;
+}
+
+{
+<Forth>
+Customer: *Swings head in disappointment* Man...I was really hoping for at least twice that. ;
+Customer: <Amount> . ;
+Customer: <Amount> . ;
+Customer: Wow. I was thinking more like <Amount> . ;
+Customer: How about <Amount> ? ;
+Customer: *Shakes heads, looks down* <Amount> is my rock bottom. ;
+Customer: *Sigh* I just thought it was worth so much more than that. I guess I'm willing to come down to <Amount> . ;
+Customer: Let's just make it <Amount> even. ;
+Customer: Let's just make it <Amount> even. ;
+Customer: Let's just make it <Amount> even. ;
+<ClassicCustomerLine> ;
+<ClassicCustomerLine> ;
+<ClassicCustomerLine> ;
+<ClassicCustomerLine> ;
+}
+
+{
+<Fraction>
+HALF that ;
+a THIRD of that ;
+a QUARTER of that ;
+a TENTH - a TENTH of what you said ;
+}
+
+{
+<ClassicPawnStarLine>
+PawnStar: I __need__ more than fair. ;
+PawnStar: When you put that money into it, you knew you weren't getting it back, right? ;
+PawnStar: Hey, I gotta make a profit. If it's worth <Amount> , I can't afford to pay much more that half that. ;
+PawnStar: I'm going to have to pay a lot to get that restored. ;
+PawnStar: Well, remember, it's not in perfect condition. ;
+PawnStar: If I can't sell it at it's full value, you sure as heck can't sell it for full value! ;
+PawnStar: You wouldn't go a penny lower if I offered it to you? ;
+PawnStar: You wouldn't go a penny lower if I offered it to you? ;
+PawnStar: You wouldn't go a penny lower if I offered it to you? ;
+PawnStar: fYou wouldn't go a penny lower if I offered it to you? ;
+PawnStar: There's a reason why they're rare - they suck, so they didn't make many. ;
+PawnStar: This hasn't even been restored. ;
+PawnStar: You see, I have to buy things that are popular. Elvis things, Maralyin Monroe things, signed records by famous musicians, I know those sell. But something obscure like this, who'd be interested? I need to be confident I'll have a buyer. ;
+}
+
+{
+<ClassicCustomerLine>
+Customer: Well, after your expert said it was worth <Amount> , I'm expecting at least two-thirds that. You make a profit, I don't get ripped off, everyone wins. ;
+Customer: I'd honestly just rather hold onto it for that price. ;
+Customer: I guess it's going to have to stay in the family... ;
+Customer: These are rare, com'on. <Amount> ;
+Customer: This still has its original finish, original screws, and patenia. I think <Amount> is more than fair. ;
+Customer: You know it's the obscure things that sell - take if from Pickers. ;
+}
+
+{
+<DealOrNoDeal>
+<Deal> ;
+<NoDeal> ;
+}
+
+{
+<NoDeal>
+<CustomerNoDeal> <PawnStarNoDeal> ;
+<PawnStarNoDeal> <CustomerNoDeal> ;
+}
+
+{
+<Deal>
+<CustomerDeal> <PawnStarDeal> ;
+<PawnStarDeal> <CustomerDeal> ;
+}
+
+{
+<CustomerNoDeal>
+Customer: I'm sorry, but I'm just not at your price range. ;
+Customer: I can't make any of your deals, sorry. ;
+Customer: Nope. It's just going to have to stay in the family for now. ;
+Customer: I think I'll hang on to it. ;
+Customer: I just can't do it. Thank you for your time. ;
+}
+
+{
+<CustomerDeal>
+Customer: *Psssssssssh, ahhhhh* Man. I really need the money. Ok. ;
+Customer: Deal. *Shakes hand* ;
+Customer: Hmmm. That sounds reasonable. Ok, deal. ;
+Customer: I'll take it. ;
+Customer: Ok. Deal. ;
+}
+
+{
+<PawnStarDeal>
+PawnStar: Great. Let's do the paperwork. ;
+PawnStar: Let's do the paperwork. ;
+PawnStar: Great. Let's do the paperwork. ;
+PawnStar: Let's do the paperwork. ;
+PawnStar: Deal. *Shakes Hand* ;
+PawnStar: Glad we could make a deal. Take care. ;
+PawnStar: Thanks. I'm glad to have this peice in my shop. ;
+PawnStar: Alright! Good deal. ;
+}
+
+{
+<PawnStarNoDeal>
+PawnStar: Can't do it. ;
+PawnStar: I'm sorry, but it's just not worth that kind of money. Have a nice day. ;
+PawnStar: If you change your mind, come back, ok? ;
+PawnStar: Well, thanks for bringing it in. Sorry we couldn't make a deal. ;
+PawnStar: Well, thanks for bringing it in. Sorry we couldn't make a deal. ;
+PawnStar: Sorry we couldn't make a deal. I hope the best for you. ;
+PawnStar: Shoot. Well, I can't go any lower. ;
+}
+
+{
+<Amount>
+$20 ;
+$20 ;
+$20 ;
+$21 ;
+$22 ;
+$23 ;
+$25 ;
+$50 ;
+$57.89 ;
+$57.98 ;
+$58.37 ;
+$100 ;
+$200 ;
+$300 ;
+$1000 ;
+$1000 ;
+$1000 ;
+$1500:
+$1600 ;
+$1700 ;
+$1800 ;
+$1900 ;
+$2000 ;
+$2000 ;
+$2000 ;
+$2500 ;
+$3000 ;
+$3500 ;
+$3700 ;
+$3800 ;
+$3900 ;
+$4000 ;
+$4100 ;
+$5000 ;
+$5500 ;
+$20 ;
+$20 ;
+$20 ;
+$21 ;
+$22 ;
+$23 ;
+$25 ;
+$50 ;
+$57.89 ;
+$57.98 ;
+$58.37 ;
+$100:
+$200 ;
+$300 ;
+$1000 ;
+$1000 ;
+$1000 ;
+$1500:
+$1600 ;
+$1700 ;
+$1800 ;
+$1900 ;
+$2000 ;
+$2000 ;
+$2000 ;
+$2500 ;
+$3000 ;
+$3500 ;
+$3700 ;
+$3800 ;
+$3900 ;
+$4000 ;
+$4100 ;
+$5000 ;
+$5500 ;
+$10000 ;
+$15000 ;
+$20000 ;
+$25000 ;
+$30000 ;
+$35000 ;
+$45000 ;
+}

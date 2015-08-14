@@ -1,0 +1,140 @@
+Wacky CS Test Grammar
+by Alex Krotzer
+{
+<start>
+Question 1 [ <point-value> ]: <first-question>  Question 2 [ <point-value> ]: <second-question> Question 3 [ <point-value> ]: <bonus-question> ;
+Question 1 [ <point-value> ]: <first-question>  Question 2 [ <point-value> ]: <second-question> Question 3 [ <point-value> ]: <bonus-question> ;
+Question 1 [ <point-value> ]: <first-question>  Question 2 [ <point-value> ]: <second-question> Question 3 [ <point-value> ]: <bonus-question> ;
+Question 1 [ <point-value> ]: <first-question>  Question 2 [ <point-value> ]: <second-question> ;
+Question 1 [ <point-value> ]: <first-question>  Question 2 [ <point-value> ]: <second-question> ;
+Question 1 [ <point-value> ]: <first-question>  Question 2 [ <point-value> ]: <second-question> ;
+Bonus Question! This is worth <point-value> points: <bonus-question> ;
+}
+
+{
+<point-value>
+30 ;
+30 ;
+30 ;
+30 ;
+20 ;
+20 ;
+20 ;
+10 ;
+10 ;
+5 ;
+}
+
+{
+<first-question>
+what is the definition of <programming-construct> ? ;
+how and why does <language> use <programming-construct> to <achievement> ? ;
+can <programming-construct> be used in <language> to <achievement> without invoking <programming-construct> ? Explain. ;
+}
+
+{
+<second-question>
+<test-action> the <programming-construct> in relation to the syntactic derivatives of <language> . ;
+<test-action> , <test-action> , and <test-action> the significance of <programming-construct> in relation to <popular-problems> . ;
+<test-action> , only using <programming-construct> , to solve <popular-problems> . ;
+<test-action> a way to <achievement> in <language> using only <programming-construct> and <programming-construct> . ;
+}
+
+{
+<bonus-question>
+what do <animals> have to do with <language> ? ;
+what does Hansen feel when he programs in <language> with <feeling> <animals> on his lap? ;
+if <animals> programmed in <language> to reinvent <programming-construct> , would they feel <feeling> ? ;
+what would happen if <language> was used to <test-action> sentience of <animals> ? ;
+<test-action> the <feeling> aspects of writing in <language> . ;
+}
+
+{
+<test-action>
+analyze ;
+diagram ;
+sketch ;
+recite ;
+portray ;
+solve ;
+program ;
+write ;
+prove ;
+learn ;
+explain ;
+develop ;
+}
+
+{
+<programming-construct>
+head recursion ;
+tail recursion ;
+inheritance ;
+object-oriented design ;
+class definitions ;
+dynamic programming ;
+parallel computing ;
+big-O notation ;
+heap sorting ;
+depth-first searches ;
+mathematic proofs ;
+lambda functions ;
+}
+
+{
+<achievement>
+win the Nobel Peace Prize ;
+save the homeless ;
+keep warm at night ;
+beat Hansen's AI Player ;
+retire early ;
+entertain friends ;
+perform at optimum efficiency ;
+}
+
+{
+<popular-problems>
+travelling salesperson ;
+P == NP ;
+the knapsack ;
+the Towers of Hanoi ;
+course scheduling ;
+air plane boarding algorithms ;
+}
+
+{
+<language>
+C# ;
+Scala ;
+Java ;
+OCaml ;
+F# ;
+Clojure ;
+Python ;
+Perl ;
+Prolog ;
+}
+
+{
+<animals>
+camels ;
+corgis ;
+wolves ;
+turtles ;
+honey badgers ;
+piranhas ;
+kittens ;
+rabbits ;
+}
+
+{
+<feeling>
+depressed ;
+exhausted ;
+proud ;
+starving ;
+euphoric ;
+perky ;
+boisterous ;
+paranoid ;
+}

@@ -1,0 +1,171 @@
+Warehouse 13 Episodes
+by Anthony Seebart
+{
+<start>
+<problem> <ping> <locate-artifact> <snag-artifact> <bag-artifact> <debrief> <tag-artifact> <end> ;
+}
+
+{
+<problem>
+The <artifact> started causing trouble in <location> . ;
+It was a quiet day at the warehouse when <artifact> popped up in <location> . ;
+}
+
+{
+<ping>
+Artie called the group together to say they got a ping. ;
+Claudia ran to tell everyone about the ping . ;
+}
+
+{
+<locate-artifact>
+<team> went to <location> to retrieve the artifact. ;
+}
+
+{
+<snag-artifact>
+Soon after <team> found the artifact they couldn't bag it because <excuse> . ;
+}
+
+{
+<bag-artifact>
+After <team> got the artifact they neutralized it by <goo> and returned to the warehouse. ;
+}
+
+{
+<debrief>
+After returning to the warehouse <boss> told everyone <compliment> and went to shelve the artifact. ;
+}
+
+{
+<tag-artifact>
+After shelving the artifact <character> explains what the artifact does. It <explanation> ;
+}
+
+{
+<end>
+Then there was another ping. ;
+Everyone went to back to the B & B for food. ;
+Suddenly <character> went missing ;
+Then the warehouse exploded. ;
+Finally they lived happily never after! ;
+Finally Pete cracked a joke. ;
+}
+
+{
+<artifact>
+Studio 54 Disco Ball ;
+Timothy Leary's Reading Glasses ;
+Ulysses S. Grant's flask ;
+The Berlin Wall Spray Can ;
+Endless Cookie Jar ;
+Typhoid Knife ;
+Priestly Danger ;
+}
+
+{
+<location>
+Newberg ;
+Italy ;
+Rome ;
+Egypt ;
+Washington D.C ;
+Chicago ;
+New York ;
+Portland ;
+Backwood South Dakota ;
+Louisiana Swamp ;
+}
+ 
+{
+<team>
+Pete & Myka ;
+Pete & Myka ;
+Pete & Myka ;
+Pete & Myka ;
+Pete & Myka ;
+Pete & Myka ;
+Pete & Myka ;
+Steve & Claudia ;
+Steve & Claudia ;
+Steve & Claudia ;
+Steve & Claudia ;
+Steve & Claudia ;
+Artie & Claudia ;
+Artie & Claudia ;
+}
+
+{
+<excuse>
+it shoots lava ;
+it was too high up ;
+they don't have all the pieces ;
+Pete ate it ;
+they had no artifact bags ;
+}
+
+{
+<goo>
+a neutraliser bag ;
+a neutraliser bag ;
+a neutraliser bag ;
+a neutraliser bag ;
+a neutraliser bag ;
+purple goo ;
+purple goo ;
+purple goo ;
+spraying purple goo ;
+a goo-nade ;
+}
+
+{
+<boss>
+Mrs. Fredrick ;
+Artie ;
+Artie ;
+Artie ;
+Artie ;
+Artie ;
+Artie ;
+A regent ;
+Mr. Kosan ;
+}
+
+{
+<compliment>
+good work ;
+good work ;
+good work ;
+good work ;
+good work ;
+try to get it done quicker next time ;
+You could have done better but at least you got the artifact ;
+}
+
+{
+<character>
+Pete ;
+Myka ;
+Myka ;
+Myka ;
+Lena ;
+Artie ;
+Artie ;
+Artie ;
+Claudia ;
+Claudia ;
+Claudia ;
+Mrs. Fredrick ;
+Steve ;
+}
+
+{
+<explanation>
+turns any place into the 80's and makes you want to disco. ;
+makes you see everything as if you were on LSD if you wear them. ;
+makes you believe you are Ulysses S. Grant if you drink from it. ;
+can disintegrate anything it writes on unless marked by something peaceful. ;
+is always full of chocolate chip cookies. ;
+can transfer illness among the two people using it. ;
+can separate something evil from something good. ;
+}
